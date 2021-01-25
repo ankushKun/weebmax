@@ -5,6 +5,9 @@ from io import BytesIO
 from PIL import Image
 from time import sleep
 
+print("===  WEEBMAX  ===")
+print("===   V 1.3   ===")
+
 while True:
   # CONTAINS LINKS FOR MANGA COVER IMAGES
   cover_urls  = []
