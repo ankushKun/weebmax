@@ -15,3 +15,5 @@ Made in collaboration with [@Code-Blender-7](https://github.com/Code-Blender-7)
 - [ ] Make a GUI
 - [ ] Show what chapters are available for download
 - [ ] Bulk download feature
+
+### Please do inform us if you find a bug or not
