@@ -16,5 +16,5 @@ Made in collaboration with [@Code-Blender-7](https://github.com/Code-Blender-7)
 - [ ] Show what chapters are available for download
 - [ ] Bulk download feature
 
-### Please note that this Weebmax V1.3 is not going to work for a matter of days due to the cause of shut down of its allocated websites.
+### Please note that this Weebmax V1.3 is not going to work due to the cause of shut down of its allocated websites.
 Kindly please be patient. As the websites soon recover, we will ressume developments once again.
