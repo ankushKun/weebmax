@@ -18,3 +18,7 @@ Made in collaboration with [@Code-Blender-7](https://github.com/Code-Blender-7)
 
 ### Please note that this Weebmax V1.3 is not going to work due to the cause of shut down of its allocated websites.
 Kindly please be patient. As the websites soon recover, we will ressume developments once again.
+
+We are also working on getting this project back to its feet!!
+Thanks for your patience!
+Arigato {Bow down}
