@@ -2,6 +2,14 @@
 A manga scraper and downloader\
 Made in collaboration with [@Code-Blender-7](https://github.com/Code-Blender-7)
 
+## Requirements 
+```
+beautifulsoup4
+lxml
+pillow
+```
+
+
 ### How it works
 
 1. You enter search context (e.g. New Game, Pokemon, Tokyo)
@@ -20,5 +28,5 @@ Made in collaboration with [@Code-Blender-7](https://github.com/Code-Blender-7)
 Kindly please be patient. As the websites soon recover, we will ressume developments once again.
 
 We are also working on getting this project back to its feet!!
-Thanks for your patience!
+Thanks for your patience!\
 Arigato {Bow down}
